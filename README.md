@@ -1,3 +1,6 @@
+FitFiesta.AI
+
+
 ---
 title: FitFiesta.AI
 app_file: frontend.py
